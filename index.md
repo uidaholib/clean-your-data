@@ -11,12 +11,10 @@ layout: default
 
 This site provides a basic lesson outline. See the [workshop video](https://youtu.be/wGVtycv3SS0) for more content.
 
-Offered Feb 2017 at University of Idaho Library
+Offered Feb 2017 at [University of Idaho Library](http://www.lib.uidaho.edu/)
 
-[![University of Idaho Library logo](images/header-brand.png)](http://www.lib.uidaho.edu/)
-
-> content: cc-by-sa <a href="https://github.com/evanwill">evan will</a> 2017
->
 > built using [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/)
-
-<a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" alt="Creative Commons License" /></a>
+>
+> content: cc-by-sa <a href="https://github.com/evanwill">evan will</a> 2017 
+>
+> <a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" alt="Creative Commons License" /></a>

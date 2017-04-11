@@ -5,6 +5,8 @@ title: 1-About
 
 # What is OpenRefine?
 
+OpenRefine is a [free](https://www.gnu.org/philosophy/free-sw.en.html), [open source](https://github.com/OpenRefine/OpenRefine), Java application, that runs offline in a web browser. 
+
 > **“A power tool for working with messy data”**
 >
 > - more powerful than a spreadsheet
@@ -12,8 +14,6 @@ title: 1-About
 > - more provisional / exploratory / experimental / playful than a database
 >
 > [David Huynh](http://web.archive.org/web/20141021040915/http://davidhuynh.net/spaces/nicar2011/tutorial.pdf)
-
-OpenRefine is a [free](https://www.gnu.org/philosophy/free-sw.en.html), [open source](https://github.com/OpenRefine/OpenRefine), Java application, that runs offline in a web browser. 
 
 ![Refine Screenshot](images/refine.png)
 
