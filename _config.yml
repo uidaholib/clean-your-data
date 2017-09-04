@@ -5,9 +5,19 @@
 
 title: Clean Your Data
 description: > 
-  Introducing OpenRefine, a power tool for the messy work of evaluating, cleaning, and transforming data. 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://evanwill.github.io/clean-your-data" # the base hostname & protocol for your site
+  Introducing OpenRefine, a power tool for the messy work of evaluating, cleaning, and transforming data.
+keywords: "OpenRefine, academic workshop, data transformation"
+
+# author settings for cc-by
+author: evan will
+github_username: evanwill
+twitter_username: EvanPeterWill
+pub_year: 2016
+
+# add the full url for the github repository
+repo: "https://github.com/evanwill/clean-your-data"
+
+url: "https://evanwill.github.io/clean-your-data" # the base hostname & protocol for your site
 
 google_analytics: UA-74844011-1
 

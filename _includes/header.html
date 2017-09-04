@@ -14,9 +14,9 @@
       </span>
 
       <div class="trigger">
-        {% for my_page in site.pages %}
-          {% if my_page.title %}
-          <a class="page-link" href="{{ my_page.url | prepend: site.github.url }}" target="_self">{{ my_page.title | escape }}</a>
+        {% for lesson in site.pages %}
+          {% if lesson.nav == true %}
+          <a class="page-link" href="{{ lesson.url | prepend: site.url }}">{{ lesson.title | escape }}</a>
           {% endif %}
         {% endfor %}
       </div>

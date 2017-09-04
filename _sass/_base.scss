@@ -46,10 +46,13 @@ img {
  */
 figure > img {
   display: block;
+  margin: 0 auto;
 }
 
 figcaption {
   font-size: $small-font-size;
+  color: $grey-color;
+  text-align: center;  
 }
 
 /**

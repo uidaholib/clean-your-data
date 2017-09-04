@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 2-Messy
+nav: true
 ---
 
 # What is Messy Data?

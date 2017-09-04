@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 3-Start
+nav: true
 ---
 
 # Setup Refine

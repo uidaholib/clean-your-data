@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 4-Demo
+nav: true
 ---
 
 # Demo: University Data
