@@ -15,9 +15,9 @@ twitter_username: EvanPeterWill
 pub_year: 2016
 
 # add the full url for the github repository
-repo: "https://github.com/evanwill/clean-your-data"
+repo: "https://github.com/uidaholib/clean-your-data"
 
-url: "https://evanwill.github.io/clean-your-data" # the base hostname & protocol for your site
+url: "https://uidaholib.github.io/clean-your-data" # the base hostname & protocol for your site
 
 google_analytics: UA-74844011-1
 
