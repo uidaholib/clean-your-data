@@ -6,6 +6,9 @@ layout: default
 
 # Clean Your Data: Getting Started with OpenRefine
 
+**Note: this workshop site is from 2017, a more up-to-date version is available: [Clean Your Data](https://evanwill.github.io/clean-your-data/)**.
+This version is archived to match the [workshop video](https://youtu.be/wGVtycv3SS0).
+
 > Before analysis comes the messy work of evaluating, cleaning, and transforming data. This hands on workshop will introduce a free power tool to get the job done: [OpenRefine](http://openrefine.org/index.html). We will install Refine, create a project, and get oriented to the many features for exploring and transforming tabular data. Intended for students, faculty, and staff with an interest in cleaning, transforming, and working with diverse data sources. No experience necessary.
 
 This site provides a basic lesson outline. See the [workshop video](https://youtu.be/wGVtycv3SS0) for more content.
